@@ -1,7 +1,7 @@
 boto3==1.19.12
 mysqlclient==2.0.3
-requests==2.25.1
-flask==1.0.2
-werkzeug==0.16.0
+requests==2.32.2
+flask==2.2.5
+werkzeug==3.0.6
 flask_sqlalchemy==2.4.0
 sqlalchemy==1.4.25
